@@ -1,0 +1,7 @@
+{
+  "name": "Nayyer Furniture",
+  "description": "Luxury artisanal furniture brand featuring AI-powered interior design assistance and image analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
